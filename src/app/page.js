@@ -86,7 +86,7 @@ export default function Home() {
         </section>
 
         <section className="card chatbot-card">
-          <h2>Faça seu pedido no chat</h2>
+          <h2>Faça seu pedido com o chatbot</h2>
           <p className="muted">Use o chatbot oficial da pizzaria para montar seu pedido.</p>
           <div className="joonbot-embed-wrapper">
             <JoonbotEmbed />
