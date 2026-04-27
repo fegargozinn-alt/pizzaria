@@ -51,7 +51,7 @@ export default function Home() {
         </section>
 
         <section className="card menu-card">
-          <h2>Qual desgraças você quer?</h2>
+          <h2>Desgraças redondas</h2>
           <ul>
             {pizzas.map((item) => (
               <li key={item.nome}>
