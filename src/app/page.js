@@ -31,8 +31,8 @@ export default function Home() {
 
       <header className="hero">
         <p className="hero-kicker">Forno intergalactico aberto</p>
-        <h1>Desgraça Cósmica Pizzaria</h1>
-        <p className="hero-subtitle">Bem vindo a desgraça cósmica pizzaria.</p>
+        <h1>Calamidade Cósmica Pizzaria</h1>
+        <p className="hero-subtitle">Bem vindo a calamidade cósmica pizzaria.</p>
       </header>
 
       <main className="content-grid">
@@ -40,17 +40,17 @@ export default function Home() {
           <h2>Como essa pizzaria nasceu</h2>
           <p>
             Antes uma pizzaria comum, até que um dia, um dos nossos funcionários colocou o elemento X, e quando
-             colocou no forno, ele criou o nosso mascote, a desgraça cósmica
+             colocou no forno, ele criou o nosso mascote, a calamidade cósmica
           </p>
           <p>
-            alguns dias depois, a desgraça cósmica que antes era tratada como um pet, destrui metade do nosso universo, e assim apelidamos ela
-            carinhosamente de desgraça cósmica, e decidimos criar uma pizzaria em homenagem a ela, e desde então, ela é 
+            alguns dias depois, a calamidade cósmica que antes era tratada como um pet, destrui metade do nosso universo, e assim apelidamos ela
+            carinhosamente de calamidade cósmica, e decidimos criar uma pizzaria em homenagem a ela, e desde então, ela é 
             a nossa mascote e símbolo da nossa pizzaria.  
           </p>
         </section>
 
         <section className="card menu-card">
-          <h2>Desgraças redondas</h2>
+          <h2>calamidades redondas</h2>
           <ul>
             {pizzas.map((item) => (
               <li key={item.nome}>
@@ -62,7 +62,7 @@ export default function Home() {
         </section>
 
         <section className="card menu-card">
-          <h2>Desgraças em estado líquido</h2>
+          <h2>calamidades em estado líquido</h2>
           <ul>
             {bebidas.map((item) => (
               <li key={item.nome}>
