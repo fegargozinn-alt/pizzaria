@@ -15,7 +15,7 @@ export default function Home() {
   ];
 
   const imagens = [
-    "https://res.cloudinary.com/joon/image/upload/v1776965655/hwxxkpkk0dfmgfmuoilb.gif",
+    "https://res.cloudinary.com/joon/image/upload/v1777555149/lspatru6ryuq82lbndfh.png",
     "https://res.cloudinary.com/joon/image/upload/v1776361034/khvx5khygkmqzorjrpmr.jpg",
     "https://res.cloudinary.com/joon/image/upload/v1776361156/u3h9xgrbg84jwqlc8grg.jpg",
     "https://res.cloudinary.com/joon/image/upload/v1776361243/kalcdiranm2x9dmxzlxi.jpg",
