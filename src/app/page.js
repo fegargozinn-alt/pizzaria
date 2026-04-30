@@ -39,14 +39,13 @@ export default function Home() {
         <section className="card story-card">
           <h2>Como essa pizzaria nasceu</h2>
           <p>
-            A Desgraça Cósmica Pizzaria começou quando um forno velho caiu de um meteoro no quintal do fundador,
-            Toninho Nebuloso. Ao testar a primeira massa, ele misturou temperos da Terra com um molho secreto vindo
-            de uma feira interplanetária. O resultado foi tão absurdo que os vizinhos fizeram fila às 3 da manhã.
+            Antes uma pizzaria comum, até que um dia, um dos nossos funcionários colocou o elemento X, e quando
+             colocou no forno, ele criou o nosso mascote, a desgraça cósmica
           </p>
           <p>
-            Desde então, a casa virou ponto oficial de quem quer pizza boa com clima de caos espacial: receitas
-            clássicas, sabores estranhos e bebidas com nomes perigosos, tudo feito no forno intergaláctico que nunca
-            apaga.
+            alguns dias depois, a desgraça cósmica que antes era tratada como um pet, destrui metade do nosso universo, e assim apelidamos ela
+            carinhosamente de desgraça cósmica, e decidimos criar uma pizzaria em homenagem a ela, e desde então, ela é 
+            a nossa mascote e símbolo da nossa pizzaria.  
           </p>
         </section>
 
